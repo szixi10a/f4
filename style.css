@@ -6,7 +6,8 @@ body{
 .container{
     background-color: lightsalmon;
     border: 5px solid red;
-    border-radius: 5px;    
+    border-radius: 5px;
+    text-indent: 6px;    
 }
 
 h1{
