@@ -29,11 +29,11 @@ p{
 ul{
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
-    list-style-image: url(sapka.png);
+    
 }
 li{
     font-family: 'Times New Roman', Times, serif;
-    
+    list-style-image: url(sapka.png);
 }
 ol{
     font-family: 'Times New Roman', Times, serif;
