@@ -1,10 +1,12 @@
 body{
     background-image: url(hatter.jpg);
     background-repeat: no-repeat;
+    background-attachment:fixed ;
 }
 .container{
     background-color: lightsalmon;
-    border: 5px solid red;    
+    border: 5px solid red;
+    border-radius: 5px;    
 }
 
 h1{
